@@ -1,7 +1,6 @@
 # Laravel 6 Shops Map with Google Maps API and Adminpanel
 
-Transformed [free WordPress theme Directory Starter](https://wpgeodirectory.com/downloads/directory-starter/) into fully manageable Laravel 6 project with adminpanel generated with [QuickAdminPanel](https://quickadminpanel.com), 
-to manage all the shops.
+
 
 ## Features
 
@@ -54,8 +53,5 @@ Basically, feel free to use and re-use any way you want.
 
 ## More from our LaravelDaily Team
 
-- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
-- Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
+
+
