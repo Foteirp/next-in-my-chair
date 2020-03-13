@@ -26,7 +26,7 @@ trait MediaUploadingTrait
             ]);
         }
 
-        $path = storage_path('tmp/uploads');
+        $path = storage_path('public\assets\images\shops');
 
         try {
             if (!file_exists($path)) {
